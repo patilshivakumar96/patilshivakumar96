@@ -1,6 +1,6 @@
 # Hi, I'm Shivakumar 👋
 
-🎯 Aspiring Data Analyst | Skilled in Excel, SQL, Python, Power BI  
+🎯 Aspiring Data Analyst | Skilled in Excel, SQL, Power BI  
 💡 Passionate about turning raw data into actionable insights  
 
 ## Skills
