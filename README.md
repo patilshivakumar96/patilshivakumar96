@@ -4,7 +4,6 @@
 💡 Passionate about turning raw data into actionable insights  
 
 ## Skills
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)
 - **Databases:** MySQL
 - **Data Visualization:** Power BI, Tableau
 - **Other Tools:** Excel, Google Sheets
